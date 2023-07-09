@@ -456,6 +456,7 @@ span {
         width: 70vw;
         margin-top: 4rem;
         position: relative;
+        left: -90px;
     }    
 
     .about {
